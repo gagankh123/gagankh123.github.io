@@ -2,7 +2,7 @@
 
 Hi there 👋
 
-I am a Software Engineer II, Currently working at o9 solutions. It is a supply chain based company in Bangalore.
+I am a Software Engineer II, Currently working in Bangalore at o9 solutions which is a supply chain analytics company.
 
 I love to code in Python and learn new frameworks/packages used in a software engineering, big data, and machine learning platform. Also, I'm passionate about solving computer science problems.
 
